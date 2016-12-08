@@ -1,0 +1,63 @@
+html, body, .container
+{
+    height: 100%; 
+    min-height: 100%;
+}
+
+#overall {
+    margin-bottom: 1.5%;
+    height: 25%;
+    width: 20%;
+    background-color: #336E7B;
+}
+
+.funnel {
+    float: bottom;
+    height: 74.95%;
+    width: 20%;
+}
+
+.funnel div {
+    float: bottom;
+    margin-bottom: 5.0%;
+    height: 18.7%;
+}
+
+span {
+    position: relative;
+    color:white;
+    top: 50%;
+}
+
+.label {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: 10px;
+    font-size: 1.4em;
+}
+
+.value {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    float: right;
+    margin-top: -10px;
+    margin-right: 30px;
+    font-size: 2.4em;
+}
+
+
+
+#new_visitors{
+    background-color: #1BA39C;
+}
+
+#signups{
+ 
+    background-color: #1BBC9B;
+}
+
+#profiles{
+    background-color: #68C3A3;
+}
+
+#first_orders{
+    background-color: #A2DED0;
+}
